@@ -1,11 +1,11 @@
-# Parallels Desktop Puppet Module for Boxen
+# Cinch Puppet Module for Boxen
 
-Installs [Parallels Desktop](http://www.parallels.com/products/desktop).
+Installs [Cinch](http://www.irradiatedsoftware.com/cinch).
 
 ## Usage
 
 ```puppet
-include parallels
+include cinch
 ```
 
 ## Required Puppet Modules
