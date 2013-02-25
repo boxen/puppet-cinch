@@ -1,11 +1,11 @@
-# Installs SizeUp into /Applications
+# Installs Cinch into /Applications
 #
 # Usage:
 #
-#     include sizeup
-class sizeup {
-  package { 'SizeUp':
-    source   => 'http://www.irradiatedsoftware.com/download/SizeUp.zip',
+#     include cinch
+class cinch {
+  package { 'Cinch':
+    source   => 'http://www.irradiatedsoftware.com/download/Cinch.zip',
     provider => 'compressed_app'
   }
 }
