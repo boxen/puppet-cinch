@@ -6,7 +6,6 @@ Installs [Parallels Desktop](http://www.parallels.com/products/desktop).
 
 ```puppet
 include parallels
-}
 ```
 
 ## Required Puppet Modules
